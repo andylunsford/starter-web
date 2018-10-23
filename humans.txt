@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Andy Lunsford	andylunsford@gmail.com	@andylunsford90
 # THANKS
 
     <name>

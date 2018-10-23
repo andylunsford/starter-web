@@ -19,3 +19,6 @@ This is a simple web project, deployment can be on any web server or even local 
 
 This is text added to show diff.
 
+### Copyright
+
+2018 Andy Lunsford

@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2018 Andy Lunsford
+2018 Andy Lunsford.  All rights reserved.
